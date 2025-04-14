@@ -1,0 +1,1 @@
+// page.js แสดง landing page สำหรับ basic-math
